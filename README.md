@@ -1,4 +1,4 @@
-<h1 align="center">👋<br />SoyLucas Tabaré</h1>
+<h1 align="center">👋<br />Soy Lucas Tabaré</h1>
 <h2 align="center">Front End Developer / Camino a ser Full Stack Developer👨‍🎓</h2>
 
 - 📄 *** FRONT END WEB DEVELOPER ***
