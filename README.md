@@ -1,22 +1,22 @@
 <h1 align="center">👋 Hola, soy Lucas Tabaré</h1>
 <h2 align="center">Desarrollador Full Stack 👨‍💻</h2>
 
-<p align="center">
-  Apasionado por el desarrollo de software, con una sólida experiencia en tecnologías de Front End y una creciente habilidad en el stack de Back End. Estoy comprometido a construir aplicaciones web modernas y eficientes, desde la interfaz de usuario hasta la lógica del servidor y la gestión de bases de datos.
+<p align="center"> 
+Soy un desarrollador Full Stack versátil y entusiasta, con una pasión profunda por el desarrollo de software y una gran experiencia en tecnologías tanto de Front End como de Back End. Mi objetivo es crear aplicaciones web modernas, eficientes y centradas en la experiencia del usuario. 
 </p>
 
 ---
 
 ### 🌟 Sobre mí
-- 🌐 **Desarrollador Full Stack** con experiencia en la creación de aplicaciones web responsivas y de alto rendimiento.
-- 📈 Capaz de manejar tanto la **interfaz de usuario** (Front End) como la **lógica del servidor y bases de datos** (Back End).
-- 🚀 Constantemente aprendiendo nuevas tecnologías y mejores prácticas para mejorar la calidad y eficiencia del desarrollo.
+- 🌐 Desarrollador Full Stack con experiencia comprobable en plataformas como VTEX, Shopify y Node.js, aplicando y mejorando tanto en Front End como en Back End.
+- 💼 Actualmente trabajando en IThreex Global S.R.L como Desarrollador Full Stack, donde mejoro la experiencia de usuario (UX) y optimizo la comunicación entre frontend y backend.
+- 🚀 Apasionado por aprender y aplicar nuevas tecnologías, buscando constantemente mejorar la calidad y eficiencia del desarrollo.
 
 ### 🛠️ Habilidades Técnicas
 - **Front End:** HTML, CSS, JavaScript, React, Angular.
-- **Back End:** Node.js, Express, .NET, C#.
-- **Bases de Datos:** MongoDB, Firebase, SQL.
-- **Herramientas & Otros:** Git, GitHub, Docker, metodologías ágiles (Scrum).
+- **Back End:** Node.js, Express, .NET, C#, Nest js.
+- **Bases de Datos:** MongoDB, Firebase, SQL, MYSQL, Orable.
+- **Herramientas & Otros:** Docker, Git, GitHub, metodologías ágiles (Scrum), VTEX, Shopify.
 
 
 ### 📚 Aprendizaje en Curso
@@ -25,10 +25,9 @@
 
 ### 📫 Contacto
 - **Email:** [lucas.tabare@gmail.com](mailto:lucas.tabare@gmail.com)
+- **LinkedIn:** [https://www.linkedin.com/in/lucas-tabare/]
 <!-- También puedes agregar enlaces a tu LinkedIn, Twitter, o portafolio personal. -->
 
 ---
 
-<p align="center">
-  <i>Estoy siempre en busca de nuevas oportunidades y desafíos que me permitan crecer como desarrollador Full Stack. Si estás interesado en colaborar o tienes un proyecto en mente, no dudes en contactarme.</i>
-</p>
+<p align="center"> <i>Estoy siempre en busca de nuevas oportunidades y desafíos que me permitan crecer como desarrollador Full Stack. Si estás interesado en colaborar o tienes un proyecto en mente, no dudes en contactarme.</i> </p>
